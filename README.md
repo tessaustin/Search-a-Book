@@ -14,7 +14,7 @@ This Google Books search engine is built using the MERN stack: MongoDB, Express.
 * [Screenshot](#Screenshot)
 
 ## Usage:
-Google Book Search (glacial-forest-37606.herokuapp.com)
+https://glacial-forest-37606.herokuapp.com/
 
 ## Technology:
 - MongoDB
